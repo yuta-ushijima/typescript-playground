@@ -1,0 +1,24 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "typescriptの練習用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuta-ushijima/typescript-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuta-ushijima/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/yuta-ushijima/typescript-playground#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
