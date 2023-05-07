@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuta-ushijima/typescript-playground/issues"
   },
-  "homepage": "https://github.com/yuta-ushijima/typescript-playground#readme"
+  "homepage": "https://github.com/yuta-ushijima/typescript-playground#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
